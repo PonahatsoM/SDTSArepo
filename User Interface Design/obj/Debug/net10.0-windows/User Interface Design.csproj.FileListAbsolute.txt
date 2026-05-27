@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\UserSystem\User Interface Design\bin\Debug\net10.0-windows\User Interface Design.exe
+C:\Users\User\source\repos\UserSystem\User Interface Design\bin\Debug\net10.0-windows\User Interface Design.deps.json
+C:\Users\User\source\repos\UserSystem\User Interface Design\bin\Debug\net10.0-windows\User Interface Design.runtimeconfig.json
+C:\Users\User\source\repos\UserSystem\User Interface Design\bin\Debug\net10.0-windows\User Interface Design.dll
+C:\Users\User\source\repos\UserSystem\User Interface Design\bin\Debug\net10.0-windows\User Interface Design.pdb
+C:\Users\User\source\repos\UserSystem\User Interface Design\obj\Debug\net10.0-windows\User_Interface_Design.Form1.resources
+C:\Users\User\source\repos\UserSystem\User Interface Design\obj\Debug\net10.0-windows\User Interface Design.csproj.GenerateResource.cache
+C:\Users\User\source\repos\UserSystem\User Interface Design\obj\Debug\net10.0-windows\User Interface Design.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\UserSystem\User Interface Design\obj\Debug\net10.0-windows\User Interface Design.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\UserSystem\User Interface Design\obj\Debug\net10.0-windows\User Interface Design.AssemblyInfo.cs
+C:\Users\User\source\repos\UserSystem\User Interface Design\obj\Debug\net10.0-windows\User Interface Design.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\UserSystem\User Interface Design\obj\Debug\net10.0-windows\User Interface Design.dll
+C:\Users\User\source\repos\UserSystem\User Interface Design\obj\Debug\net10.0-windows\refint\User Interface Design.dll
+C:\Users\User\source\repos\UserSystem\User Interface Design\obj\Debug\net10.0-windows\User Interface Design.pdb
+C:\Users\User\source\repos\UserSystem\User Interface Design\obj\Debug\net10.0-windows\User Interface Design.genruntimeconfig.cache
+C:\Users\User\source\repos\UserSystem\User Interface Design\obj\Debug\net10.0-windows\ref\User Interface Design.dll
