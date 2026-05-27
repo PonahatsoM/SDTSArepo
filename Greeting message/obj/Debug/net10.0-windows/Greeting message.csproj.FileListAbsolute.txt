@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\UserSystem\Greeting message\bin\Debug\net10.0-windows\Greeting message.exe
+C:\Users\User\source\repos\UserSystem\Greeting message\bin\Debug\net10.0-windows\Greeting message.deps.json
+C:\Users\User\source\repos\UserSystem\Greeting message\bin\Debug\net10.0-windows\Greeting message.runtimeconfig.json
+C:\Users\User\source\repos\UserSystem\Greeting message\bin\Debug\net10.0-windows\Greeting message.dll
+C:\Users\User\source\repos\UserSystem\Greeting message\bin\Debug\net10.0-windows\Greeting message.pdb
+C:\Users\User\source\repos\UserSystem\Greeting message\obj\Debug\net10.0-windows\Greeting_message.Form1.resources
+C:\Users\User\source\repos\UserSystem\Greeting message\obj\Debug\net10.0-windows\Greeting message.csproj.GenerateResource.cache
+C:\Users\User\source\repos\UserSystem\Greeting message\obj\Debug\net10.0-windows\Greeting message.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\UserSystem\Greeting message\obj\Debug\net10.0-windows\Greeting message.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\UserSystem\Greeting message\obj\Debug\net10.0-windows\Greeting message.AssemblyInfo.cs
+C:\Users\User\source\repos\UserSystem\Greeting message\obj\Debug\net10.0-windows\Greeting message.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\UserSystem\Greeting message\obj\Debug\net10.0-windows\Greeting message.dll
+C:\Users\User\source\repos\UserSystem\Greeting message\obj\Debug\net10.0-windows\refint\Greeting message.dll
+C:\Users\User\source\repos\UserSystem\Greeting message\obj\Debug\net10.0-windows\Greeting message.pdb
+C:\Users\User\source\repos\UserSystem\Greeting message\obj\Debug\net10.0-windows\Greeting message.genruntimeconfig.cache
+C:\Users\User\source\repos\UserSystem\Greeting message\obj\Debug\net10.0-windows\ref\Greeting message.dll
