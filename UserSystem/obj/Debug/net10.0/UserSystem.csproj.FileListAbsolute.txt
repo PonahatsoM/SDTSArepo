@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\UserSystem\UserSystem\bin\Debug\net10.0\UserSystem.exe
+C:\Users\User\source\repos\UserSystem\UserSystem\bin\Debug\net10.0\UserSystem.deps.json
+C:\Users\User\source\repos\UserSystem\UserSystem\bin\Debug\net10.0\UserSystem.runtimeconfig.json
+C:\Users\User\source\repos\UserSystem\UserSystem\bin\Debug\net10.0\UserSystem.dll
+C:\Users\User\source\repos\UserSystem\UserSystem\bin\Debug\net10.0\UserSystem.pdb
+C:\Users\User\source\repos\UserSystem\UserSystem\obj\Debug\net10.0\UserSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\UserSystem\UserSystem\obj\Debug\net10.0\UserSystem.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\UserSystem\UserSystem\obj\Debug\net10.0\UserSystem.AssemblyInfo.cs
+C:\Users\User\source\repos\UserSystem\UserSystem\obj\Debug\net10.0\UserSystem.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\UserSystem\UserSystem\obj\Debug\net10.0\UserSystem.dll
+C:\Users\User\source\repos\UserSystem\UserSystem\obj\Debug\net10.0\refint\UserSystem.dll
+C:\Users\User\source\repos\UserSystem\UserSystem\obj\Debug\net10.0\UserSystem.pdb
+C:\Users\User\source\repos\UserSystem\UserSystem\obj\Debug\net10.0\UserSystem.genruntimeconfig.cache
+C:\Users\User\source\repos\UserSystem\UserSystem\obj\Debug\net10.0\ref\UserSystem.dll
